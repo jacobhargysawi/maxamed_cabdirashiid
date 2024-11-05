@@ -52,6 +52,7 @@
 
 		  <button type="submit" class="btn btn-primary">Login</button>
 		  <a href="index.php" class="text-decoration-none">Home</a>
+		  <a href="dynamic_images.php" class="text-decoration-none">dynamic_images</a>
 		</form>
         
         <br /><br />
